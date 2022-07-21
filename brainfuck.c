@@ -47,7 +47,7 @@ int main(int argc, char **argv)
 					if (!stack[indexx]) {
 						rc++;
 						while (rc) {
-							i++;
+							x++;
 							if (command[x] == *lp) {
 								rc++;
 							}
